@@ -1,0 +1,17 @@
+.container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.places-container{
+    
+    margin: 10px 5px 5px 10px;
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr  );
+}
+.choosed-places{
+    background-color: rgb(228, 231, 236);
+    margin: 15px;
+    border-radius: 10px;
+    height: max-content;
+
+}

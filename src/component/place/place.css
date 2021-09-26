@@ -1,0 +1,25 @@
+
+.place-card{
+    margin: 15px;
+    background-color: rgb(228, 231, 236);
+    height: 430px;
+    border-radius: 10px;
+}
+
+.place-img{
+    margin-top: 20px;
+    width: 200px;
+    height: 130px;
+    border-radius: 10%;
+}
+.place-button{
+    background-color: rgb(131, 126, 126);
+    border:none;
+    border-radius: 5px;
+    width: 200px;
+    line-height: 20px;
+    cursor: pointer;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: 200;
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Cox's bazar",
+    "days": 4,
+    "budget": 10000,
+    "rating": 4,
+    "image": "Images/0001.jpg",
+    "city": "Cox's Bazer"
+  },
+  {
+    "id": 2,
+    "name": "Saint martin",
+    "days": 4,
+    "budget": 15000,
+    "rating": 5,
+    "image": "Images/0002.jpg",
+    "city": "Teknaf"
+  },
+  {
+    "id": 3,
+    "name": "Shundorban",
+    "days": 3,
+    "budget": 12000,
+    "rating": 3,
+    "image": "Images/0003.jpg",
+    "city": "Khulna"
+  },
+  {
+    "id": 4,
+    "name": "kuakata",
+    "days": 3,
+    "budget": 16000,
+    "rating": 4,
+    "image": "Images/0004.jpg",
+    "city": "Barishal"
+  },
+  {
+    "id": 5,
+    "name": "Lalbagh",
+    "days": 1,
+    "budget": 1000,
+    "rating": 4,
+    "image": "Images/0005.jpg",
+    "city": "Dhaka"
+  },
+  {
+    "id": 6,
+    "name": "Ahsan Monjil",
+    "days": 1,
+    "budget": 1000,
+    "rating": 3,
+    "image": "Images/0006.jpg",
+    "city": "Dhaka"
+  },
+  {
+    "id": 7,
+    "name": "Panam Nagor",
+    "days": 1,
+    "budget": 3000,
+    "rating": 4,
+    "image": "Images/0007.jpg",
+    "city": "Narayonganj"
+  },
+  {
+    "id": 8,
+    "name": "Mosque City Of Bagherhat",
+    "days": 3,
+    "budget": 8000,
+    "rating": 5,
+    "image": "Images/0008.jpg",
+    "city": "Bagherhatt"
+  },
+  {
+    "id": 9,
+    "name": "Armenia Church",
+    "days": 1,
+    "budget": 1000,
+    "rating": 3,
+    "image": "Images/0009.jpg",
+    "city": "Dhaka"
+  },
+  {
+    "id": 10,
+    "name": "Jaflong",
+    "days": 2,
+    "budget": 5000,
+    "rating": 4,
+    "image": "Images/0010.jpg",
+    "city": "Sylhet"
+  },
+  {
+    "id": 11,
+    "name": "Shada Pathor",
+    "days": 2,
+    "budget": 6000,
+    "rating": 4,
+    "image": "Images/0011.jpg",
+    "city": "Sylhet"
+  },
+  {
+    "id": 12,
+    "name": "Ratargul Swamp Forest",
+    "days": 2,
+    "budget": 8000,
+    "rating": 5,
+    "image": "Images/0012.jpg",
+    "city": "Sylhet"
+  },
+  {
+    "id": 13,
+    "name": "Rangamati",
+    "days": 3,
+    "budget": 12000,
+    "rating": 5,
+    "image": "Images/0013.jpg",
+    "city": "Rangamati"
+  },
+  {
+    "id": 14,
+    "name": "Sajek Vally",
+    "days": 3,
+    "budget": 15000,
+    "rating": 5,
+    "image": "Images/0014.jpg",
+    "city": "Bandarban"
+  },
+  {
+    "id": 15,
+    "name": "Kaptai Lake",
+    "days": 3,
+    "budget": 12000,
+    "rating": 4,
+    "image": "Images/0015.jpg",
+    "city": "Rangamati"
+  },
+  {
+    "id": 16,
+    "name": "Mahasthangarh",
+    "days": 2,
+    "budget": 7000,
+    "rating": 3,
+    "image": "Images/0016.jpg",
+    "city": "Bogra"
+  },
+  {
+    "id": 17,
+    "name": "Gaur",
+    "days": 2,
+    "budget": 8000,
+    "rating": 4,
+    "image": "Images/0017.jpg",
+    "city": "Rajshahi"
+  },
+  {
+    "id": 18,
+    "name": "Srimangal",
+    "days": 2,
+    "budget": 6000,
+    "rating": 4,
+    "image": "Images/0018.jpg",
+    "city": "Sylhet"
+  },
+  {
+    "id": 19,
+    "name": "Kantajew Temple",
+    "days": 3,
+    "budget": 9000,
+    "rating": 3,
+    "image": "Images/0019.jpg",
+    "city": "Rangpur"
+  },
+  {
+    "id": 20,
+    "name": "Star Mosque",
+    "days": 1,
+    "budget": 1000,
+    "rating": 3,
+    "image": "Images/0020.jpg",
+    "city": "Dhaka"
+  }
+]
