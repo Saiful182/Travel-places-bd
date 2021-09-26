@@ -1,9 +1,9 @@
 # Tourist Places of Bangladesh
 
-This project is created for tourist from hare and abrod.We probide best rate and best places in Bangladesh to visit.
+This project is created for tourist from hare and abraod. We provide best rate and places information in Bangladesh to visit.
 
 ## Project Link
-
+https://hardcore-clarke-c3b1d5.netlify.app/
 
 
 ### What we uses in this project?
